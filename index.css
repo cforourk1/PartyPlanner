@@ -1,0 +1,19 @@
+.layout {
+    display: flex;
+    gap: 2rem;
+    padding: 1rem;
+}
+
+.partyButton {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    gap: 1rem;
+}
+
+.partyDetails {
+border: 1px solid #6908b8 ;
+padding: 1rem;
+border-radius: .5rem;
+max-width: 30rem;
+}
